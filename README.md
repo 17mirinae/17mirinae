@@ -24,4 +24,5 @@ Digital Forensic
 [![17mirinae's github stats](https://github-readme-stats.vercel.app/api?username=17mirinae)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17mirinae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=17%20mirinae&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
