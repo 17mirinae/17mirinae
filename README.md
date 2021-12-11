@@ -14,9 +14,8 @@
 
 ⚡ <b>Self Studying</b><br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
-Digital Forensic
 
-📝 <b>Now Learning</b><br>Web Crawling, Programming Language
+📝 <b>Now Learning</b><br>
 
 📫 <b>Blog</b><br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?logo=GitBloge&link=https://17mirinae.github.io/)](https://17mirinae.github.io/)
