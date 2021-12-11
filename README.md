@@ -17,8 +17,8 @@
 
 📝 <b>Now Learning</b><br>
 
-📫 <b>Blog</b><br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?logo=GitBloge&link=https://17mirinae.github.io/)](https://17mirinae.github.io/)
+<!-- 📫 <b>Blog</b><br>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?logo=GitBloge&link=https://17mirinae.github.io/)](https://17mirinae.github.io/) -->
 
 [![17mirinae's github stats](https://github-readme-stats.vercel.app/api?username=17mirinae)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17mirinae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
