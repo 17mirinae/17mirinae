@@ -1,6 +1,6 @@
 ### Welcome!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=17%20mirinae&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Thank%20you%20for%20following%20me!&fontSize=60)
 
 📚 <b>Technology Stack</b><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
